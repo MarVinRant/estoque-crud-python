@@ -76,5 +76,8 @@ o que permite testar as regras sem iniciar o Streamlit.
 
 ## Status
 
-Projeto em organização para repositório independente, deploy e publicação no
-LinkedIn.
+Projeto publicado e pronto para estudo.
+
+## Demonstração
+
+https://estoque-crud-python-rantech.streamlit.app/
