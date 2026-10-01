@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
+  <rect width="960" height="240" fill="#0f172a" rx="18"/>
+  <text x="48" y="48" fill="#f8fafc" font-family="Arial" font-size="24" font-weight="700">Fluxo do sistema de estoque</text>
+  <g font-family="Arial" font-size="18" text-anchor="middle">
+    <rect x="48" y="92" width="190" height="82" rx="12" fill="#2563eb"/>
+    <text x="143" y="126" fill="white">Streamlit</text><text x="143" y="151" fill="#dbeafe">Interface</text>
+    <rect x="385" y="92" width="190" height="82" rx="12" fill="#16a34a"/>
+    <text x="480" y="126" fill="white">db.py</text><text x="480" y="151" fill="#dcfce7">Regras CRUD</text>
+    <rect x="722" y="92" width="190" height="82" rx="12" fill="#ea580c"/>
+    <text x="817" y="126" fill="white">SQLite</text><text x="817" y="151" fill="#ffedd5">Persistência</text>
+  </g>
+  <g stroke="#cbd5e1" stroke-width="4" fill="none"><path d="M238 133h147"/><path d="M575 133h147"/></g>
+  <g fill="#cbd5e1"><path d="m373 124 18 9-18 9z"/><path d="m710 124 18 9-18 9z"/></g>
+</svg>
